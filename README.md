@@ -1,5 +1,4 @@
-Telegram Bot Boilerplate with Vercel's Serverless Functions [@VercelServerlessFunctionsBot](https://t.me/VercelServerlessFunctionsBot)
-======================
+Telegram Bot Boilerplate with Vercel's Serverless Functions
 
 This template  is a fork of [Telegram Bot Boilerplate](https://github.com/yakovlevyuri/telegram-bot-boilerplate) framework to be used with [Vercel's Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction). Easily deploy to [Vercel](https://vercel.com).
 
